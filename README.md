@@ -3,7 +3,7 @@
 ## 🌍 Overview
 
 <div align="center">
-  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/head.png" style="width: 70%;">
+  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/head.png" style="width: 50%;">
 </div>
 
 ## 📊 Datasets
