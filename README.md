@@ -23,11 +23,11 @@ Visualization of high-resolution remote sensing segmentation datasets by year, r
 WakeupUrbanBench is a high-fidelity, city-scale semantic segmentation benchmark built from declassified 1960s Keyhole panchromatic reconnaissance imagery co-registered with contemporaneous official urban maps. We provide pixel-level labels for impervious surface and five land-use categories—roads, buildings, water bodies, green lands, and other urban types. Spanning four cities across two countries and two periods (1960s and 2020s), the benchmark constitutes a challenging domain due to grayscale distortions and limited spatial resolution in reconnaissance imagery, and it enables studies in historical urban morphology, cultural-heritage conservation, and cross-temporal/cross-city generalization. All assets (original imagery, semantic masks, impervious-surface “ISP” masks, metadata, and baseline scripts), together with detailed documentation, will be publicly released under a Creative Commons Attribution–NonCommercial (CC BY-NC) license on GitHub and Hugging Face.
 
 #### Data preparation
-To access the demo dataset(上一版本), you can download it from:[🔗 Urban1960SatBench](https://doi.org/10.7910/DVN/HT2B1S)
+To access the demo dataset (an earlier version for show), please download it here: [🔗 Urban1960SatBench](https://doi.org/10.7910/DVN/HT2B1S)
 
-The usage examples of the data are in the Python files [WakupUrbanSS](https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/datasets/wakeupurban.py) and [WakupUrbanISP](https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/datasets/wakeupurbanisp.py)
+Usage examples are provided in the following Python files: [WakeupUrbanSS](https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/datasets/wakeupurban.py) and [WakeupUrbanISP](https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/datasets/wakeupurbanisp.py).
 
-Note: This demo version is slight differences in the paper version.
+### The full dataset will be released soon...
 
 ## 📊 Model
 <div align="center">
