@@ -2,9 +2,16 @@
 
 ## 🌍 Overview
 
-<div align="center">
-  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/head.png" style="width: 25%;">
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 220px;">
+      <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/head.png" width="200" />
+    </td>
+    <td style="vertical-align: top; padding-left: 16px;">
+      Historical satellite imagery archive, such as Keyhole satellite data, offers rare insights into understanding early urban development and long-term transformation. However, severe quality degradation ($\textit{e.g.}$, distortion, misalignment, and spectral scarcity) and the absence of annotations have long hindered its analysis. To bridge this gap and enhance understanding of urban development, we introduce $\textbf{WakeupUrbanBench}$, an annotated segmentation dataset based on historical satellite imagery with the earliest observation time among all existing remote sensing (RS) datasets, along with a framework for unsupervised segmentation tasks, $\textbf{WakeupUSM}$. First, WakeupUrbanBench serves as a pioneer, expertly annotated dataset built on mid-$20^{\text{th}}$ century RS imagery, involving four key urban classes and spanning 4 cities across 2 continents with nearly 1000 km$^2$ area of diverse urban morphologies, and additionally introducing one present-day city. Second, WakeupUSM is a novel unsupervised semantic segmentation framework for historical RS imagery. It employs a confidence-aware alignment mechanism and focal-confidence loss based on a self-supervised learning architecture, which generates robust pseudo-labels and adaptively prioritizes prediction difficulty and label reliability to improve unsupervised segmentation on noisy historical data without manual supervision. Comprehensive experiments demonstrate WakeupUSM significantly outperforms existing unsupervised segmentation methods $\textbf{both WakeupUrbanBench and public dataset}$, promising to pave the way for quantitative studies of long-term urban change using modern computer vision. Our full benchmark and models will be released later.
+    </td>
+  </tr>
+</table>
 
 ## 📊 Datasets
 
