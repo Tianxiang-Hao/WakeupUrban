@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align: top; width: 220px;">
+    <td style="vertical-align: top; width: 100px;">
       <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/head.png" style="width: 75%;">
     </td>
     <td style="vertical-align: top; padding-left: 100px;">
