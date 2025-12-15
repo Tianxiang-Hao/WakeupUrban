@@ -1,21 +1,23 @@
-# WakeupUrban: Unsupervised Semantic Segmentation of Mid-20$<sup>th<sup> century Urban Landscapes with Satellite Imagery
+# WakeupUrban: Unsupervised Semantic Segmentation of Mid-20<sup>th<sup> century Urban Landscapes with Satellite Imagery
 
 ## 🌍 Overview
 
 <div align="center">
-  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/Intro.png" style="width: 80%;">
+  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/head.png" style="width: 70%;">
 </div>
 
 ## 📊 Datasets
 
 <div align="center">
-  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/relatedwork.jpg" style="width: 50%;">
+  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/relatedwork.png" style="width: 50%;">
 </div>
 
 Visualization of high-resolution remote sensing segmentation datasets by year, resolution, and coverage. More recent datasets show greater diversity in resolution and extent, while Urban1960SatBench is the earliest with relatively high resolution, bridging a key temporal gap.
 ### 🔧 How to use
+
+
 <div align="center">
-  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/dataset.png" style="width: 70%;">
+  <img src="https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/intro.png" style="width: 80%;">
 </div>
 
 WakeupUrbanBench is a high-fidelity, city-scale semantic segmentation benchmark built from declassified 1960s Keyhole panchromatic reconnaissance imagery co-registered with contemporaneous official urban maps. We provide pixel-level labels for impervious surface and five land-use categories—roads, buildings, water bodies, green lands, and other urban types. Spanning four cities across two countries and two periods (1960s and 2020s), the benchmark constitutes a challenging domain due to grayscale distortions and limited spatial resolution in reconnaissance imagery, and it enables studies in historical urban morphology, cultural-heritage conservation, and cross-temporal/cross-city generalization. All assets (original imagery, semantic masks, impervious-surface “ISP” masks, metadata, and baseline scripts), together with detailed documentation, will be publicly released under a Creative Commons Attribution–NonCommercial (CC BY-NC) license on GitHub and Hugging Face.
