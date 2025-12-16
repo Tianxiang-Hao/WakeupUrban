@@ -56,9 +56,9 @@ WakeupUrban will be continuously updated to include additional locations, time p
 If you find this datasets or repository useful, please consider giving a star :star: and citation :t-rex::
 
 ```
-@misc{hao2025urban1960satsegunsupervisedsemanticsegmentation,
-      title={Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20$^{th}$ century Urban Landscapes with Satellite Imageries}, 
-      author={Tianxiang Hao and Lixian Zhang and Yingjia Zhang and Mengxuan Chen and Jinxiao Zhang and Haohuan Fu},
+@misc{hao2025wakeupurbanunsupervisedsemanticsegmentation,
+      title={WakeupUrban: Unsupervised Semantic Segmentation of Mid-20$^{th}$ century Urban Landscapes with Satellite Imagery}, 
+      author={Tianxiang Hao and Lixian Zhang and Yingjia Zhang and Mengxuan Chen and Jinxiao Zhang and Runmin Dong and Haohuan Fu},
       year={2025},
       eprint={2506.09476},
       archivePrefix={arXiv},
